@@ -8,7 +8,7 @@
 4. In the following equation, Area = Length x Width, identify the determinant(s).
 
 5. If a relation has no duplicate data, how can you be sure there is always at least one primary key?
-
+ fghfgjh jgj
 6. Give an example of a relation.  Determine a natural key for this relation.
 
   For question 7 - 8, Consider product *orders*.  In particular, associated with an order is: customer name (first and last), address (street, city, state, zip), phone, email, the products orders (including item, quantity, and price).  
